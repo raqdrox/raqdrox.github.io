@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca0139f2.css",
+    "main.js": "/static/js/main.f6599bde.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/bgdark1.jpg": "/static/media/bgdark1.8c5efd4c27edde82f4e4.jpg",
+    "static/media/flappybird.png": "/static/media/flappybird.85bc899e612517f25e4a.png",
+    "static/media/header-img.svg": "/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/taskman.png": "/static/media/taskman.a6ff3d25200231203bef.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/placeholder-image.png": "/static/media/placeholder-image.3c0a422b9d39f22e1be7.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/logo.png": "/static/media/logo.ccf5a35052ced623edf7.png",
+    "static/media/njord.webp": "/static/media/njord.7e71f4502792e7007acc.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "index.html": "/index.html",
+    "main.ca0139f2.css.map": "/static/css/main.ca0139f2.css.map",
+    "main.f6599bde.js.map": "/static/js/main.f6599bde.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0139f2.css",
+    "static/js/main.f6599bde.js"
+  ]
+}
