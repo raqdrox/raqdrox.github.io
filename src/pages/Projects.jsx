@@ -1,4 +1,4 @@
-import { Container, Row, Col, Tab, Nav, Button } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 import { ProjectCard } from "../components/ProjectCard";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
